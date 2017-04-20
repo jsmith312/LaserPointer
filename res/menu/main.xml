@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.arizona.group5.MainActivity" >
+
+    <item android:id="@+id/pastConnections"
+        android:title="Past Connections" >
+    </item>
+
+</menu>
